@@ -1,0 +1,23 @@
+.pai{
+    background-color: rgb(247, 239, 156); width: 800px; height: 250px;
+    border: solid 2px #000; margin: 10px;
+}
+
+.caixa{
+    background-color: rgb(178, 33, 210); width: 100px; height: 100px; border-radius: 100px;
+}
+
+.caixa2{
+    background-color: rgb(231, 151, 13); width: 100px; height: 100px; border-radius: 100px;
+}
+
+.titulo{
+    color: rgb(161, 176, 52);
+    font-family: monospace;
+}
+
+.corpadrao{
+    color: rgb(0, 0, 0);
+    font-family: monospace;
+    font-size: 25px;
+}
